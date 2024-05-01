@@ -1,0 +1,16 @@
+15
+1	Single	VIP
+2	Double	Standard
+3	Group		Standard
+4	Single	Standard
+5	Double	VIP
+6	Group		VIP
+7	Single	Standard
+8	Double	Standard
+9	Group		Standard
+10	Single	VIP
+11	Double	VIP
+12	Group		VIP
+13	Single	Standard
+14	Double	Standard
+15	Single	VIP
